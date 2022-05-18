@@ -15,5 +15,6 @@
     print('Age: 22')
     print('Gender: male')
     print('Birthdate: 09.12.1999')
+    print('Speciality: Computer Science')
  developer3method():
     pass
