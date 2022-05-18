@@ -5,4 +5,5 @@
     print('Kazakhstan')
     print('Naryn')
     print('Khorog')
+    print('Tekeli')
 
