@@ -1,6 +1,6 @@
  developer1method():
     print('Shokhrukh')
  developer2method():
-    pass
+    print('Name: Atai')
  developer3method():
     pass
