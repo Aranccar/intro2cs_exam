@@ -5,6 +5,8 @@
     print('Freshman')
     print('19')
     print('21.04.2003')
+    print('Computer Science')
+    print('Tajikistan')
  developer2method():
     print('Name: Atai')
     print('Surname: Cholponkulov')
