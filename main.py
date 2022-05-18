@@ -1,4 +1,4 @@
- developer1method():
+def developer1method():
     print('Shokhrukh')
     print('Davlatmamadov')
     print('shodavlat21@gmail.com')
@@ -7,7 +7,7 @@
     print('21.04.2003')
     print('Computer Science')
     print('Tajikistan')
- developer2method():
+def developer2method():
     print('Name: Atai')
     print('Surname: Cholponkulov')
     print('Email: ataicholponkulov@gmail.com')
@@ -17,5 +17,5 @@
     print('Birthdate: 09.12.1999')
     print('Speciality: Computer Science')
     print('Country of Origin: Kyrgyzstan')
- developer3method():
+def developer3method():
     pass
