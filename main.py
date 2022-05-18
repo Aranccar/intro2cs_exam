@@ -7,6 +7,6 @@
     print('21.04.2003')
     print('Computer Science')
  developer2method():
-    pass
+    print('Name: Atai')
  developer3method():
     pass
