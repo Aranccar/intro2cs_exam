@@ -8,5 +8,6 @@
  developer2method():
     print('Name: Atai')
     print('Surname: Cholponkulov')
+    print('Email: ataicholponkulov@gmail.com')
  developer3method():
     pass
