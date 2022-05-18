@@ -1,5 +1,6 @@
  feature2method():
     print('University of Central Asia')
+    print('Aga Khan')
     print('Kyrgyzstan')
     print('Tajikistan')
     print('Kazakhstan')
