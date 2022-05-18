@@ -3,4 +3,5 @@
     print('Kyrgyzstan')
     print('Tajikistan')
     print('Kazakhstan')
+    print('Naryn')
 
