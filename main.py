@@ -9,5 +9,6 @@
     print('Tajikistan')
  developer2method():
     print('Name: Atai')
+    print('Surname: Cholponkulov')
  developer3method():
     pass
