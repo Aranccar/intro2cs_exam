@@ -6,3 +6,5 @@ def check(a):
         True
     else:
         False
+    
+a = 'I love my mom!'
