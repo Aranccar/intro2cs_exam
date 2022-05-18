@@ -5,6 +5,7 @@
     print('Freshman')
     print('19')
     print('21.04.2003')
+    print('Computer Science')
  developer2method():
     pass
  developer3method():
