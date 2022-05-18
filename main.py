@@ -7,5 +7,6 @@
     print('21.04.2003')
  developer2method():
     print('Name: Atai')
+    print('Surname: Cholponkulov')
  developer3method():
     pass
