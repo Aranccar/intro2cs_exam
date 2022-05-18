@@ -15,5 +15,7 @@
     print('Age: 22')
     print('Gender: male')
     print('Birthdate: 09.12.1999')
+    print('Speciality: Computer Science')
+    print('Country of Origin: Kyrgyzstan')
  developer3method():
     pass
