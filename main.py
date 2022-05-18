@@ -2,6 +2,7 @@
     print('Shokhrukh')
     print('Davlatmamadov')
     print('shodavlat21@gmail.com')
+    print('Freshman')
  developer2method():
     pass
  developer3method():
