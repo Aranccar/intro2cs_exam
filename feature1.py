@@ -8,3 +8,5 @@ def check(a):
         False
     
 a = 'I love my mom!'
+
+l = input('Please enter your name: ')
