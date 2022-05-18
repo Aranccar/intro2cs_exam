@@ -6,4 +6,5 @@
     print('Naryn')
     print('Khorog')
     print('Tekeli')
+    print('2021')
 
