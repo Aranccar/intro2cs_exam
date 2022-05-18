@@ -12,3 +12,4 @@ a = 'I love my mom!'
 l = input('Please enter your name: ')
 
 print(1)
+print(2)
