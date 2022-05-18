@@ -12,5 +12,6 @@
     print('Surname: Cholponkulov')
     print('Email: ataicholponkulov@gmail.com')
     print('Cohort: Senior')
+    print('Age: 22')
  developer3method():
     pass
